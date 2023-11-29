@@ -12,7 +12,7 @@
         }
     ],
     "options_page": "html/options.html",
-    "minimum_chrome_version": "110",
+    "minimum_chrome_version": "1",
     "background": {
         "service_worker": "js/extension/background.js",
         "type": "module"
